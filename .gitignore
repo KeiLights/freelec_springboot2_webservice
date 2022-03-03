@@ -3,3 +3,6 @@
 
 ### IntelliJ IDEA ###
 .idea
+
+### oauth 관련 ###
+application-oauth.properties

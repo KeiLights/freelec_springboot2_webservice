@@ -18,7 +18,7 @@ class IndexControllerTest {
 
     @Test
     void 메인페이지_로딩() throws Exception {
-        //given
+        //when
         String body = this.restTemplate.getForObject("/", String.class);
 
         //then
